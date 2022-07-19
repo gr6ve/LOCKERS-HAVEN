@@ -1,1 +1,244 @@
- local c = Instance.new("\83\99\114\101\101\110\71\117\105") local q = Instance.new("\70\114\97\109\101") local g = Instance.new("\70\114\97\109\101") local n = Instance.new("\85\73\67\111\114\110\101\114") local f = Instance.new("\85\73\71\114\97\100\105\101\110\116") local d = Instance.new("\84\101\120\116\76\97\98\101\108") local i = Instance.new("\85\73\67\111\114\110\101\114") local d_2 = Instance.new("\84\101\120\116\76\97\98\101\108") local b = Instance.new("\85\73\67\111\114\110\101\114") local s = Instance.new("\85\73\67\111\114\110\101\114") local l = Instance.new("\84\101\120\116\76\97\98\101\108") local n_5 = Instance.new("\85\73\67\111\114\110\101\114") local f_2 = Instance.new("\85\73\71\114\97\100\105\101\110\116") local h_ = Instance.new("\84\101\120\116\66\117\116\116\111\110") local mh = Instance.new("\85\73\67\111\114\110\101\114") local km = Instance.new("\85\73\71\114\97\100\105\101\110\116") local e = Instance.new("\84\101\120\116\66\117\116\116\111\110") local t = Instance.new("\85\73\67\111\114\110\101\114") local r = Instance.new("\84\101\120\116\66\117\116\116\111\110") local n_8 = Instance.new("\85\73\67\111\114\110\101\114") local co = Instance.new("\84\101\120\116\66\117\116\116\111\110") local qc = Instance.new("\85\73\67\111\114\110\101\114") local gq = Instance.new("\85\73\71\114\97\100\105\101\110\116") local q_3 = Instance.new("\70\114\97\109\101") local fn = Instance.new("\85\73\67\111\114\110\101\114") local f_5 = Instance.new("\85\73\71\114\97\100\105\101\110\116") local id = Instance.new("\73\109\97\103\101\76\97\98\101\108") local ai = Instance.new("\84\101\120\116\66\117\116\116\111\110") local ba = Instance.new("\85\73\67\111\114\110\101\114") c.Parent = game.Players.LocalPlayer:WaitForChild("\80\108\97\121\101\114\71\117\105") c.ZIndexBehavior = Enum.ZIndexBehavior.Sibling q.Parent = c q.BackgroundColor3 = Color3.fromRGB(67, 67, 67) q.BorderSizePixel = 0 q.Position = UDim2.new(0.350157738, 0, 0.224153161, 0) q.Size = UDim2.new(0, 392, 0, 296) g.Parent = q g.BackgroundColor3 = Color3.fromRGB(255, 255, 255) g.BorderSizePixel = 0 g.Position = UDim2.new(-0.0012795584, 0, -0.00137411582, 0) g.Size = UDim2.new(0, 392, 0, 55) n.Parent = g f.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.51, Color3.fromRGB(129, 125, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(8, 0, 255))} f.Parent = g d.Parent = g d.BackgroundColor3 = Color3.fromRGB(255, 255, 255) d.BackgroundTransparency = 9.000 d.Position = UDim2.new(0.139026567, 0, 0, 0) d.Size = UDim2.new(0, 114, 0, 55) d.Font = Enum.Font.SourceSans d.Text = "\240\159\148\165\32\124\32\76\79\67\75\69\82\83\32\72\65\86\69\78" d.TextColor3 = Color3.fromRGB(0, 0, 0) d.TextSize = 28.000 i.Parent = d d_2.Parent = g d_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255) d_2.BackgroundTransparency = 1.000 d_2.Position = UDim2.new(0.755102038, 0, 0.177149862, 0) d_2.Size = UDim2.new(0, 96, 0, 45) d_2.Font = Enum.Font.Roboto d_2.Text = "\98\101\108\105\101\102\35\52\56\54\55" d_2.TextColor3 = Color3.fromRGB(255, 255, 255) d_2.TextSize = 23.000 b.Parent = d_2 s.Parent = q l.Name = "\87\101\108\99\111\109\101\83\105\103\110" l.Parent = q l.BackgroundColor3 = Color3.fromRGB(255, 255, 255) l.Position = UDim2.new(0.107142858, 0, 0.331081092, 0) l.Size = UDim2.new(0, 308, 0, 47) l.Font = Enum.Font.SourceSans l.TextColor3 = Color3.fromRGB(0, 0, 0) l.TextSize = 30.000 n_5.Parent = l f_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 0, 255)), ColorSequenceKeypoint.new(0.47, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(42, 0, 255))} f_2.Parent = l h_.Name = "\65\105\109\108\111\99\107\32\85\119\85" h_.Parent = q h_.BackgroundColor3 = Color3.fromRGB(255, 255, 255) h_.Position = UDim2.new(0.683673501, 0, 0.537162125, 0) h_.Size = UDim2.new(0, 106, 0, 23) h_.Font = Enum.Font.SourceSans h_.Text = "\65\73\77\76\79\67\75\32\40\70\79\86\41" h_.TextColor3 = Color3.fromRGB(0, 0, 0) h_.TextSize = 14.000 h_.MouseButton1Down:Connect(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/gr6ve/GATEWAY/main/THUSKY'))() end) mh.Parent = h_ km.Parent = h_ e.Name = "\69\83\80\32\85\119\85" e.Parent = q e.BackgroundColor3 = Color3.fromRGB(255, 255, 255) e.Position = UDim2.new(0.364795923, 0, 0.537162066, 0) e.Size = UDim2.new(0, 106, 0, 23) e.Font = Enum.Font.SourceSans e.Text = "\69\83\80" e.TextColor3 = Color3.fromRGB(0, 0, 0) e.TextSize = 14.000 e.MouseButton1Down:Connect(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/gr6ve/GATEWAY/main/ESP'))() end) t.Parent = e r.Name = "\68\114\111\112\112\105\110\103" r.Parent = q r.BackgroundColor3 = Color3.fromRGB(255, 255, 255) r.Position = UDim2.new(0.0408163331, 0, 0.537162066, 0) r.Size = UDim2.new(0, 106, 0, 23) r.Font = Enum.Font.SourceSans r.Text = "\68\82\79\80\80\69\68\32\67\65\83\72" r.TextColor3 = Color3.fromRGB(0, 0, 0) r.TextSize = 14.000 r.MouseButton1Down:Connect(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/DaHood%20Cash%20Counter'))() end) n_8.Parent = r co.Name = "\83\119\97\103\109\111\100\101\32\67\114\97\115\104\32\85\87\85" co.Parent = q co.BackgroundColor3 = Color3.fromRGB(255, 255, 255) co.Position = UDim2.new(0.683673501, 0, 0.689189136, 0) co.Size = UDim2.new(0, 106, 0, 23) co.Font = Enum.Font.SourceSans co.Text = "\67\82\65\83\72\69\82" co.TextColor3 = Color3.fromRGB(0, 0, 0) co.TextSize = 14.000 co.MouseButton1Down:Connect(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SuperCustomServerCrasher'))() end) qc.Parent = co gq.Parent = co q_3.Parent = q ng.BackgroundColor3 = Color3.fromRGB(255, 255, 255) q_3.BorderSizePixel = 0 q_3.Position = UDim2.new(-0.0012795584, 0, 0.893896163, 0) q_3.Size = UDim2.new(0, 392, 0, 31) fn.Parent = q_3 f_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.51, Color3.fromRGB(129, 125, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(8, 0, 255))} f_5.Parent = q_3 id.Parent = q id.BackgroundColor3 = Color3.fromRGB(255, 255, 255) id.BorderSizePixel = 0 id.Position = UDim2.new(0.364795923, 0, 0.658783913, 0) id.Size = UDim2.new(0, 106, 0, 69) id.Image = "\104\116\116\112\58\47\47\119\119\119\46\114\111\98\108\111\120\46\99\111\109\47\97\115\115\101\116\47\63\105\100\61\52\56\55\51\52\51\56\54\52\54" ai.Name = "\68\114\111\112\112\105\110\103\32\115\116\117\102\102" ai.Parent = q ai.BackgroundColor3 = Color3.fromRGB(255, 255, 255) ai.Position = UDim2.new(0.0408163331, 0, 0.689189076, 0) ai.Size = UDim2.new(0, 106, 0, 23) ai.Font = Enum.Font.SourceSans ai.Text = "\65\85\84\79\68\82\79\80\80\69\82" ai.TextColor3 = Color3.fromRGB(0, 0, 0) ai.TextSize = 14.000 ai.MouseButton1Down:Connect(function() loadstring(game:HttpGet(("https://raw.githubusercontent.com/Raycodex/Exploiting/main/Roblox/Da%20Hood%20Auto%20Cash%20Drop"), true))() end) ba.Parent = ai local function h()  local ls = Instance.new('LocalScript', l) ls.Parent.Text = "\87\101\108\99\111\109\101\32".. game.Players.LocalPlayer.Name end coroutine.wrap(h)() local function EQFHT_fake_ls()  local ls = Instance.new('LocalScript', q) local pl = game:GetService("\85\115\101\114\73\110\112\117\116\83\101\114\118\105\99\101") local _p = ls.Parent local h_p local mh_ local kmh local ek local function k(o) local te = o.Position - kmh _p.Position = _p:TweenPosition(UDim2.new(ek.X.Scale, ek.X.Offset + te.X, ek.Y.Scale, ek.Y.Offset + te.Y), 'Out', 'Linear', 0, true);  end _p.InputBegan:Connect(function(o) if o.UserInputType == Enum.UserInputType.MouseButton1 or o.UserInputType == Enum.UserInputType.Touch then h_p = true kmh = o.Position ek = _p.Position o.Changed:Connect(function() if o.UserInputState == Enum.UserInputState.End then h_p = false end end) end end) _p.InputChanged:Connect(function(o) if o.UserInputType == Enum.UserInputType.MouseMovement or o.UserInputType == Enum.UserInputType.Touch then mh_ = o end end) pl.InputChanged:Connect(function(o) if o == mh_ and h_p then k(o) end end) end coroutine.wrap(EQFHT_fake_ls)() 
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local Frame_2 = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local UIGradient = Instance.new("UIGradient")
+local TextLabel = Instance.new("TextLabel")
+local UICorner_2 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local UICorner_3 = Instance.new("UICorner")
+local UICorner_4 = Instance.new("UICorner")
+local WelcomeSign = Instance.new("TextLabel")
+local UICorner_5 = Instance.new("UICorner")
+local UIGradient_2 = Instance.new("UIGradient")
+local AimlockUwU = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local UIGradient_3 = Instance.new("UIGradient")
+local ESPUwU = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local Dropping = Instance.new("TextButton")
+local UICorner_8 = Instance.new("UICorner")
+local SwagmodeCrashUWU = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local UIGradient_4 = Instance.new("UIGradient")
+local Frame_3 = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
+local UIGradient_5 = Instance.new("UIGradient")
+local ImageLabel = Instance.new("ImageLabel")
+local Droppingstuff = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.350157738, 0, 0.224153161, 0)
+Frame.Size = UDim2.new(0, 392, 0, 296)
+
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.BorderSizePixel = 0
+Frame_2.Position = UDim2.new(-0.0012795584, 0, -0.00137411582, 0)
+Frame_2.Size = UDim2.new(0, 392, 0, 55)
+
+UICorner.Parent = Frame_2
+
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.51, Color3.fromRGB(129, 125, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(8, 0, 255))}
+UIGradient.Parent = Frame_2
+
+TextLabel.Parent = Frame_2
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 9.000
+TextLabel.Position = UDim2.new(0.139026567, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 114, 0, 55)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "🔥 | LOCKERS HAVEN"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 28.000
+
+UICorner_2.Parent = TextLabel
+
+TextLabel_2.Parent = Frame_2
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.755102038, 0, 0.177149862, 0)
+TextLabel_2.Size = UDim2.new(0, 96, 0, 45)
+TextLabel_2.Font = Enum.Font.Roboto
+TextLabel_2.Text = "belief#4867"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 23.000
+
+UICorner_3.Parent = TextLabel_2
+
+UICorner_4.Parent = Frame
+
+WelcomeSign.Name = "WelcomeSign"
+WelcomeSign.Parent = Frame
+WelcomeSign.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WelcomeSign.Position = UDim2.new(0.107142858, 0, 0.331081092, 0)
+WelcomeSign.Size = UDim2.new(0, 308, 0, 47)
+WelcomeSign.Font = Enum.Font.SourceSans
+WelcomeSign.TextColor3 = Color3.fromRGB(0, 0, 0)
+WelcomeSign.TextSize = 30.000
+
+UICorner_5.Parent = WelcomeSign
+
+UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(17, 0, 255)), ColorSequenceKeypoint.new(0.47, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(42, 0, 255))}
+UIGradient_2.Parent = WelcomeSign
+
+AimlockUwU.Name = "Aimlock UwU"
+AimlockUwU.Parent = Frame
+AimlockUwU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AimlockUwU.Position = UDim2.new(0.683673501, 0, 0.537162125, 0)
+AimlockUwU.Size = UDim2.new(0, 106, 0, 23)
+AimlockUwU.Font = Enum.Font.SourceSans
+AimlockUwU.Text = "AIMLOCK (FOV)"
+AimlockUwU.TextColor3 = Color3.fromRGB(0, 0, 0)
+AimlockUwU.TextSize = 14.000
+AimlockUwU.MouseButton1Down:Connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/gr6ve/GATEWAY/main/THUSKY'))()
+end)
+UICorner_6.Parent = AimlockUwU
+
+UIGradient_3.Parent = AimlockUwU
+
+ESPUwU.Name = "ESP UwU"
+ESPUwU.Parent = Frame
+ESPUwU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESPUwU.Position = UDim2.new(0.364795923, 0, 0.537162066, 0)
+ESPUwU.Size = UDim2.new(0, 106, 0, 23)
+ESPUwU.Font = Enum.Font.SourceSans
+ESPUwU.Text = "ESP"
+ESPUwU.TextColor3 = Color3.fromRGB(0, 0, 0)
+ESPUwU.TextSize = 14.000
+ESPUwU.MouseButton1Down:Connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/gr6ve/GATEWAY/main/ESP'))()
+end)
+UICorner_7.Parent = ESPUwU
+
+Dropping.Name = "Dropping"
+Dropping.Parent = Frame
+Dropping.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Dropping.Position = UDim2.new(0.0408163331, 0, 0.537162066, 0)
+Dropping.Size = UDim2.new(0, 106, 0, 23)
+Dropping.Font = Enum.Font.SourceSans
+Dropping.Text = "DROPPED CASH"
+Dropping.TextColor3 = Color3.fromRGB(0, 0, 0)
+Dropping.TextSize = 14.000
+Dropping.MouseButton1Down:Connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Seller-Tools/main/DaHood%20Cash%20Counter'))()
+end)
+UICorner_8.Parent = Dropping
+
+SwagmodeCrashUWU.Name = "Swagmode Crash UWU"
+SwagmodeCrashUWU.Parent = Frame
+SwagmodeCrashUWU.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SwagmodeCrashUWU.Position = UDim2.new(0.683673501, 0, 0.689189136, 0)
+SwagmodeCrashUWU.Size = UDim2.new(0, 106, 0, 23)
+SwagmodeCrashUWU.Font = Enum.Font.SourceSans
+SwagmodeCrashUWU.Text = "CRASHER"
+SwagmodeCrashUWU.TextColor3 = Color3.fromRGB(0, 0, 0)
+SwagmodeCrashUWU.TextSize = 14.000
+SwagmodeCrashUWU.MouseButton1Down:Connect(function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SuperCustomServerCrasher'))()
+end)
+UICorner_9.Parent = SwagmodeCrashUWU
+
+UIGradient_4.Parent = SwagmodeCrashUWU
+
+Frame_3.Parent = Frame
+Frame_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_3.BorderSizePixel = 0
+Frame_3.Position = UDim2.new(-0.0012795584, 0, 0.893896163, 0)
+Frame_3.Size = UDim2.new(0, 392, 0, 31)
+
+UICorner_10.Parent = Frame_3
+
+UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(0.51, Color3.fromRGB(129, 125, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(8, 0, 255))}
+UIGradient_5.Parent = Frame_3
+
+ImageLabel.Parent = Frame
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(0.364795923, 0, 0.658783913, 0)
+ImageLabel.Size = UDim2.new(0, 106, 0, 69)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=4873438646"
+
+Droppingstuff.Name = "Dropping stuff"
+Droppingstuff.Parent = Frame
+Droppingstuff.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Droppingstuff.Position = UDim2.new(0.0408163331, 0, 0.689189076, 0)
+Droppingstuff.Size = UDim2.new(0, 106, 0, 23)
+Droppingstuff.Font = Enum.Font.SourceSans
+Droppingstuff.Text = "AUTODROPPER"
+Droppingstuff.TextColor3 = Color3.fromRGB(0, 0, 0)
+Droppingstuff.TextSize = 14.000
+Droppingstuff.MouseButton1Down:Connect(function()
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Raycodex/Exploiting/main/Roblox/Da%20Hood%20Auto%20Cash%20Drop"), true))()
+end)
+UICorner_11.Parent = Droppingstuff
+
+-- Scripts:
+
+local function CFCPA_fake_script() -- WelcomeSign.LocalScript 
+	local script = Instance.new('LocalScript', WelcomeSign)
+
+	script.Parent.Text = "Welcome ".. game.Players.LocalPlayer.Name
+end
+coroutine.wrap(CFCPA_fake_script)()
+local function EQFHT_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	-- Draggble
+	-- Credits: Veky
+	
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = gui:TweenPosition(UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y), 'Out', 'Linear', 0, true); -- drag speed
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+end
+coroutine.wrap(EQFHT_fake_script)()
